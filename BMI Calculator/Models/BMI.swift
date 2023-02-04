@@ -1,0 +1,9 @@
+//
+//  BMI.swift
+//  BMI Calculator
+//
+//  Created by Dmitry P on 04/02/2023.
+//  Copyright © 2023 Angela Yu. All rights reserved.
+//
+
+import Foundation
